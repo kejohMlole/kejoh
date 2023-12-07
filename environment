@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+   
+
+</head>
+<body>
+    <div class="container">
+        <div class="centre">
+            <div class="blue">
+                <div class="left"><h1>Earth Land Insight</h1></div>
+               
+            </div>
+            <div class="language">
+                <div><a href="#">العربية</a></div>
+                <div><a href="#">&#xFEFF;中文</a></div>
+                <div><a href="#"></a>ENGLISH</div>
+                <div><a href="#">français</a></div>
+                <div><a href="#">Русский</a></div>
+                <div><a href="#">Español</a></div>
+            </div>
+            <body id="container">
+                <header>
+                    <h1 style="color: rgb(8, 24, 37);">Land Resources</h1>
+                   <div class="image1"></div>
+                    <nav>
+                        <u><h2 id="cont">Contents:</h2></u>
+                        <div class="heading">
+                        <ul class="heading-ul">
+                            <div class="HI" id="What"><a href="#ab"><h2 class="u">Land Resources</h2></a></div>
+                            <div class="HI" id="Types"><a href="#types"><h2 class="u">Types</h2></a></div>
+                            <div class="HI" id="imp"><a href="#conserve"><h2 class="u">Land conservation</h2></a></div>
+                            <div class="HI" id="imp"><a href="#plan"><h2 class="u">Land use planning</h2></a></div>
+                            <div class="HI" id="imp"><a href="#Importance"><h2 class="u">Types of planning</h2></a></div>
+                            <div class="HI" id="imp"><a href="#case"><h2 class="u">Case Study</h2></a></div>
+                            <div class="HI" id="imp"><a href="#about"><h2 class="u">About</h2></a></div>
+                        </ul>
+                    </div>
+                    </nav>
+                </header>
+      
+            <div class="content">
+               
+                <div class="Land">
+                <section id="ab">
+                    <br>
+
+                    <u><h2>What is Land Resources:</h2></u>
+                    <br>
+                    <img src="https://www.oisair.net/uploads/news/rHpEapHzUTQjrGsWCD0A0cA0KRrtb0nh.jpg" alt="mountains" width="700px">
+                    <p>Land resources mean the resources available from the land, thus the agricultural<br> land which contain natural fertilizer for growth of the products sown; the <br>underground water, the various minerals like coal, bauxite, gold and other raw materials.<br> <ul>
+                        <li>The more a country is able to locate and use the raw materials, the more the industrialization of that country, area etc.</li>
+                        </ul> <br>
+                        Land resource refers to the land available for exploitation, like non agricultural <br>lands for buildings, developing townships etc.<br> <br>
+                        Land resources (natural resources) (economically referred to as land or raw materials) <br>occur naturally within environments that exist relatively undisturbed by<br> mankind, in a natural form.
+                        <ul>
+                            <li>A natural resource is often characterized by amounts of biodiversity <br>existent in various ecosystems.</li>&nbsp;
+                            <li>Natural resources are derived from the environment. Many of them are <br>essential for our survival while others are used for satisfying our wants.</li>
+                            </ul>
+                            <ul>
+                            <li>Natural resources may be further classified in different ways.</li>
+                            </ul>
+                            <ul>
+                            <li>Underground geological resources (oil, gas, ores, precious metals).</li>
+                            </ul>
+                            <ul>
+                            <li>Deeper geohydrological resources that normally bear no relation to the <br>surface topography such as confined aquifers, are excluded from the group of components of the <br>natural land unit, although it is recognized that some countries consider them <br>as part of individual land ownership (and hence with rights to exploit or sell them).</li>
+                            </p>
+                        </ul>
+                </section><hr>
+            </div>
+            <br>
+
+                <section id="types">
+                    <u><h2>Types of Land Resources:</h2></u>
+                    <br>
+                    <p>There are many types of Land resources and some of them are defined below:</p>
+                    <br>
+                    <u><p><h3>1. Agricultural Land:</h3></u>
+                        <br>
+                    <img src="https://cdn.wallpapersafari.com/69/24/JLxteA.jpg" alt="agricultural land" width="700px">
+                    <p>Agricultural land resources are the land areas that are used for growing crops and raising livestock for <br>food, fibre, and fuel. They are essential for the food security, livelihood, and income of millions of <br>people around the world. Agricultural land resources include arable land, permanent <br>crops, permanent pastures, and fallow land.</p>
+                    <br>
+                    <u><h3>2. Forest Land:</h3></u>
+                    <br>
+                    <img src="https://media.istockphoto.com/id/1419410282/photo/silent-forest-in-spring-with-beautiful-bright-sun-rays.jpg?s=612x612&w=0&k=20&c=UHeb1pGOw6ozr6utsenXHhV19vW6oiPIxDqhKCS2Llk=" alt="forest" width="700px">
+                    <p>Forest land resource is the land area that is covered with trees and other plants that form a forest<br> ecosystem.Forest land resource is an important natural resource that needs to be managed in a sustainable and <br>equitable way that balances the conservation of biodiversity and ecosystem functions <br>with the sustainable use of forest products and services.</p>
+                    <br>
+                    <u><h3>3. Urban Land:</h3></u>
+                    <br>
+                    <img src="https://www.sdstate.edu/sites/default/files/styles/body_width_scale_920px_width_/public/2018-07/brookings.jpg?itok=NH691n6l" alt="urban settlements" width="700px">
+                    <p>Urban land resources are the land areas that are used for various purposes in urban settings, such as <br>settlements, infrastructure, industries, and recreation. They are important for the economic, social, and <br>environmental development of cities and towns, as they provide space for housing, commerce, <br>education, health, and other services that improve the quality of life of urban residents. However, urban <br>land resources also face many challenges, such as scarcity, high cost, pollution, degradation, and <br>conflict. Therefore, urban land resources need to be managed in a sustainable and equitable way that <br>balances the needs and interests of different stakeholders and preserves the ecological functions of <br>urban ecosystems.
+                    </p>
+                    <br>
+                    <u><h3>4. Wilderness Land:</h3></u>
+                    <br>
+                    <img src="https://c4.wallpaperflare.com/wallpaper/373/432/61/mountain-lake-nature-wilderness-lake-wallpaper-preview.jpg" alt="mountains" width="700px">
+                    <p>Wilderness land resource is the land area that is covered with natural vegetation and wildlife that has <br>been largely undisturbed by modern human development1. Wilderness land resource usually lacks roads, buildings,<br> and other artificial structures. It provides a natural environment for plant and animal<br> species, and allows scientists to study healthy ecosystems2. Wilderness land resource can be found in <br>every ecosystem, on every continent, and can vary in size and location.Wilderness land resource is<br> important for the conservation of biodiversity and ecosystem functions, as well as for the provision <br>of various goods and services for humans, such as wood, food, medicine, climate regulation, water purification,<br> soil protection, recreation, tourism, education, and research.</p>
+                    <br>
+                    <u><h3>5. Industrial Land:</h3></u>
+                    <br>
+                    <img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kdXN0cmlhbCUyMGFyZWF8ZW58MHx8MHx8fDA%3D" alt="industries" width="700px">
+                    <p>Industrial land resource is the land area that is used for various purposes in urban settings, such as <br>settlements, infrastructure, industries, shops, etc. Industrial land resource is important for the economic, social,<br> and environmental development of cities and towns, as it supports the production and<br> distribution of goods and services that generate income and employment opportunities for urban dwellers.<br> However, industrial land resource also faces many challenges, such as scarcity, high cost, pollution,<br> degradation, and conflict. Therefore, industrial land resource needs to be managed in a sustainable<br> and efficient way that balances the needs and interests of different stakeholders and preserves the<br> ecological functions of urban ecosystems.</p></p>
+                </section><hr>
+                <br>
+
+                <section id="plan">
+                    <h2><u>Land use planning:</u></h2>
+                    <br>
+                    <p>Land use plannning consist of :-</p>
+                    <img src="https://www.researchgate.net/publication/343524338/figure/fig1/AS:922176999944192@1596875538071/Land-use-planning-and-spatial-land-use-planning-as-a-sub-set.png" alt="land use planning chart" width="700px">
+                    <p> is the process of regulating the use of land by a central authority. Usually, this is done to promote<br> more desirable social and environmental outcomes as well as a more efficient use of resources. More specifically,<br> the goals of modern land use planning often include environmental conservation, restraint of<br> urban sprawl, minimization of transport costs, prevention of land use conflicts, and a reduction in exposure<br> to pollutants. In the pursuit of these goals, planners assume that regulating the use of land will<br> change the patterns of human behavior, and that these changes are beneficial. The first assumption, that<br> regulating land use changes the patterns of human behavior is widely accepted.<br> However, the second assumption - that these changes are beneficial - is contested, and depends on the<br> location and regulations being discussed.
+                    </p>
+                </section>
+                <section>
+                    <p>In urban planning, land use planning seeks to order and regulate land use in an efficient and ethical way, thus preventing<br>land use conflicts. Governments use land use planning to manage the development of land within their jurisdictions.<br> In doing so, the governmental unit can plan for the needs of the community while safeguarding natural resources.<br> To this end, it is the systematic assessment of land and water potential, alternatives for land use, and economic and<br> social conditions in order to select and adopt the best land use options. Often one element of<br> a comprehensive plan, a land use plan provides a vision for the future possibilities of development in <br>neighborhoods, districts, cities, or any defined planning area.
+                    </p>
+                </section><hr>
+                <br>
+                <section id="Importance">
+                    <h2><u>Types of planning:</u></h2>
+                    <br>
+                    <p>Various types of planning have emerged over the course of the 20th century. Below are the six main typologies of planning, <br>as defined by David Walters in his book, <b>Designing Communities</b> (2007):
+                    </p><ul><li><b>Traditional or comprehensive planning</b>: Common in the US after World War II, characterized by politically <br>neutral experts with a rational view of the new urban development. Focused on producing clear statements<br> about the form and content of new development.</li>
+                        <li><b>Systems planning</b>: 1950s–1970s, resulting from the failure of comprehensive planning to deal with the unforeseen<br> growth of post World War II America. More analytical view of the planning area as a set of complex <br>processes, less interested in a physical plan.</li>
+                        <li><b>Democratic planning</b>: 1960s. Result of societal loosening of class and race barriers. Gave more citizens a voice<br> in planning for future of community.</li>
+                        <li><b>Advocacy and equity planning</b>:</a> 1960s &amp; 70s. Strands of democratic planning that sought specifically to address<br> social issues of inequality and injustice in community planning.</li>
+                        <li><b>Strategic planning</b>: 1960s-present. Recognizes small-scale objectives and pragmatic real-world constraints.</li>
+                        <li><b>Environmental planning</b>: 1960s-present. Developed as many of the ecological and social implications of global development were first widely understood.</li></ul>
+                        <br>
+                        <p>Today, successful planning involves a balanced mix of analysis of the existing conditions and constraints; extensive public engagement; practical planning and design; and financially and politically feasible strategies for implementation.
+                        Current processes include a combination of strategic and environmental planning. It is becoming more widely understood that any sector of land has a certain capacity for supporting human, animal, and vegetative life in harmony, and that upsetting this balance has dire consequences on the environment. Planners and citizens often take on an advocacy role during the planning process in an attempt to influence public policy.
+                        Since the 1990s, the activist/environmentalist says approach to planning has grown into the Smart Growth movement, characterized by the focus on more sustainable and less environmentally damaging forms of development. Moreover, there is changes on the requirements of land use planning overtime. For example, whilst most of the urban planners suggest the distance from the landfill that a housing estate should be built, they must also take wind direction into consideration 
+                        Smart growth supports the integration of mixed land uses into communities as a critical component of achieving better places to live. Putting uses in close proximity to one another has benefits for transportation alternatives to driving, security, community cohesiveness, local economies, and general quality of life issues. Smart growth strives to provide a means for communities to alter the planning context which currently renders mixed land uses illegal in most of the country.
+                        </p>
+                </section><hr>
+                <br>
+                
+                <section id="conserve">
+                    <br>
+                    <u><h2>Land conservation:</h2></u>
+                    <br>
+                    <img src="https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2021/02/26110230/hands-in-soil-500x333.jpg" alt="afforestation" width="700px">
+                    <p>Land conservation is the process of protecting natural land and returning developed land to its natural<br> state. Land conservation is important for many reasons, such as:</p>
+                    <ul>
+                        <li>It preserves and restores ecosystems, which are the communities of living and non-living things that<br> interact with each other and their environment. Ecosystems provide many goods and services for humans and other<br> species, such as food, water, air, climate regulation, soil formation, nutrient cycling,<br> pollination, pest control, and recreation.</li>&nbsp;
+                        <li>It conserves biodiversity, which is the variety of life on Earth. Biodiversity is essential for the <br>functioning of ecosystems and the adaptation of species to changing conditions. Biodiversity also has intrinsic value,<br> meaning that it is valuable in itself simply by existing.</li>&nbsp;
+                        <li>It enhances the quality of life of humans, as natural land offers opportunities for health, education,<br> culture, and spirituality. Natural land also has aesthetic value, meaning that it is pleasing to the senses and the mind.</li>
+                    </ul>
+                    <br>
+                    <u><p><h3>Some <b>sustainable practices</b> that can help achieve land conservation are:</h3></p></u>
+                    <ul>
+                        <li><b>Preservation:</b> It is the practice of keeping land in its natural state and preventing any human use or<br> disturbance. Preservation protects land from degradation and maintains its ecological integrity.</li>&nbsp;
+                        <li><b>Restoration:</b> It is the practice of returning degraded land to its original or desired condition. Restoration<br> improves the structure, function, and diversity of ecosystems.</li>&nbsp;
+                        <li><b>Remediation:</b> It is the practice of cleaning up contaminated land and reducing or eliminating the harmful effects of<br> pollutants. Remediation reduces the risks to human health and the environment.</li>&nbsp;
+                        <li><b>Mitigation:</b> It is the practice of compensating for the loss or damage of natural land by creating or enhancing similar land<br> elsewhere. Mitigation offsets the negative impacts of development on ecosystems.</li>
+                    </ul>
+                    <br>
+                    <u><p><h3>Some <b>benefits</b> of land conservation are:</h3></p></u>
+                    <ul>
+                        <li><b>Economic:</b> Land conservation can generate income and employment opportunities through ecotourism, recreation,<br> education, research, and sustainable use of natural resources. Land conservation can also save costs by reducing <br>the need for artificial infrastructure and services that replace ecosystem functions.</li>&nbsp;
+                        <li><b>Social:</b> Land conservation can improve human well-being by providing physical and mental health benefits, enhancing<br> social cohesion and equity, fostering cultural identity and diversity, and increasing environmental awareness and stewardship.</li>&nbsp;
+                        <li><b>Environmental:</b> Land conservation can mitigate climate change by reducing greenhouse gas emissions and enhancing carbon sequestration.<br> Land conservation can also adapt to climate change by increasing the resilience of ecosystems and <br>species to cope with disturbances and changes.</li>
+                    </ul>
+                    <br>
+                    <p>Land conservation is a vital practice that can benefit humans and nature in many ways. By applying sustainable practices and recognizing the value<br> of natural land, we can protect our planet for ourselves and future generations.</p>
+                </section>
+               <br>
+              
+               <hr>
+               <br>
+               <section id="case">
+               <h3> <b>Case study title:</b>  "Reviving Barren Fields: A Transformation in Land Resource Management"</h3>
+<br>
+<h3><b>Introduction:</b></h3>
+<br>
+<p>In the heart of the Midwest, an inspiring story unfolds, one of land resource rejuvenation and sustainable farming practices. This case study, rooted in a once-depleted agricultural landscape, reveals the remarkable journey of turning desolate fields into a thriving ecosystem. It serves as an illuminating example for those passionate about sustainable land resource management.</p>
+<br>
+<h3><b>Background:</b></h3>
+<br>
+<p>The area under consideration was a prime example of soil degradation and mismanagement, leaving once-fertile farmlands barren and unproductive. The local community recognized the need for a fundamental shift in land resource management to revitalize these landscapes.</p>
+<br>
+<h3><b>Key Features:</b></h3>
+<br>
+<p><b>Smart Land Use Planning:</b> Greenfield Estates prioritized mixed land use, integrating residential, commercial, and green spaces. Careful zoning regulations ensured that the development was efficient and walkable, reducing the need for excessive commuting and lowering carbon emissions.<br>
+
+<b>Conservation and Preservation:</b> A significant portion of the land was dedicated to green spaces, parks, and wetlands, preserving the local ecosystem and providing recreational areas for the community. This ensured that the development did not compromise the environment.<br>
+
+<b>Sustainable Infrastructure:</b> The project implemented eco-friendly construction practices, such as energy-efficient buildings and stormwater management systems. Sustainable public transportation options and bike lanes reduced the reliance on private vehicles.<br>
+
+<b>Community Engagement:</b> From the early planning stages, community input was actively sought, and residents were involved in decision-making processes, resulting in a sense of ownership and pride in the development.</p><br>
+
+<h3>Results:</h3>
+<br>
+<p><b>Environmental Preservation:</b> Greenfield Estates successfully preserved wetlands and natural habitats, demonstrating that urban development and conservation can coexist.</p>
+
+<p><b>Economic Viability:</b> The mixed-use development attracted businesses and residents, contributing to local economic growth while providing job opportunities.</p>
+
+<p><b>Reduced Environmental Impact:</b> Sustainable infrastructure and transportation options led to a significant reduction in carbon emissions and traffic congestion.</p>
+
+<b>High Quality of Life:</b> The community enjoys easy access to green spaces, public transportation, and a sense of community engagement, enhancing overall well-being.</p><br>
+<h3>Lesson Learned:</h3>
+<br>
+<p>The Greenfield Estates case study showcases that sustainable land resource management is not only possible but also highly beneficial. By carefully planning land use, conserving natural resources, and actively engaging the community, urban development can thrive without compromising the environment. This case study serves as a blueprint for future projects, demonstrating that sustainable development is essential for a better, more environmentally conscious future.</p>
+<br>
+</section>
+<section id="about">
+               <style>
+                div.scrollmenu {
+                  background-color: #333;
+                  overflow: auto;
+                  white-space: nowrap;
+                }        
+                div.scrollmenu a {
+                  display: inline-block;
+                  color: white;
+                  text-align: center;
+                  padding: 14px;
+                  text-decoration: none;
+                }        
+                div.scrollmenu a:hover {
+                  background-color: #777;
+                }
+                </style>
+                </head>
+                <body>
+                
+                <div class="scrollmenu">
+                  
+                  <a href="https://economictimes.indiatimes.com/topic/land-acquisition">News</a>
+                  
+                  <a id ="footer" href="file:///C:/Users/kejoh/OneDrive/Desktop/html/About%20us.html">About Us</a>
+                  <a href="https://sdgs.un.org/goals/goal15">Support</a>
+                  
+                  <a href="https://www.rubbishplease.co.uk/blog/land-pollution-facts-statistics/">More</a>
+                  
+                  
+                </div>
+                <style>
+                    body {
+                        background-image: url("https://www.pexels.com/@mdsnmdsnmdsn/"); /* Specify the path to your background image */
+                        background-size: cover; /* Ensure the background image covers the entire viewport */
+                        background-repeat: no-repeat; /* Prevent the background image from repeating */
+                    }
+                </style>
+            </head>
+            
+                <div id="Content">
+                    
+                    <p>Thanks for visiting.</p>
+                </div>
+            
+            </section>
+        
+            <footer>
+                <p>&copy; 2023 EarthLandInsights</p>
+            </section>
+                
+
+
+        </div>
+    </div>
+</footer>
+</body>
+</html>
